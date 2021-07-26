@@ -1,3 +1,13 @@
+# basic options
+title: newblog
+author: gnaanaa
+email: gnaanaa@gmail.com
+twitter_username: gnaanaa
+github_username: gnaanaa
 url: https://www.techceylon.org
 name: Tech Ceylon Social Ventures
 description: Empowering lives through technology
+
+# Build settings
+markdown: kramdown
+theme: minima
